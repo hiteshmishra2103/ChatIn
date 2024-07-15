@@ -9,7 +9,6 @@ ChatIN is a real-time 1:1 chat application for instant and secure communication.
 - **Real-time 1:1 messaging with WebSockets**: Enables instant message delivery between users without any delay, providing a seamless chatting experience.
 - **Offline messaging**: Allows users to send messages to offline recipients. These messages will be delivered as soon as the recipient comes online, ensuring no communication is missed.
 - **Redis Pub/Sub model**: Utilizes Redis for efficient message delivery and scalable client communication. This ensures messages are broadcasted quickly and reliably to the intended recipients.
-- **Docker containerization**: Ensures consistent development and deployment environments by packaging the application and its dependencies into containers. This simplifies deployment and enhances application portability.
 - **Secure login and signup**: Provides a robust authentication system to protect user data and ensure secure access to the chat application.
 
 ## Tech Stack
